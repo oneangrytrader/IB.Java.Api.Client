@@ -1,9 +1,9 @@
-package com.angrytrader.ib.api.client;
+package main;
 
 public class Main {
     
     public static void main(String[] args) {
-        System.out.println("com.angrytrader.ib.api.client.Main.main()");
+        System.out.println("Main.main()");
         
     }    
 }
